@@ -1,0 +1,2 @@
+# kco
+never stop learning
